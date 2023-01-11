@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Northcoders bootcamp final project **stAR**
+- 🔭 I’m currently open to work 
 
 - 🌱 I’m currently learning **Dart,Flutter. Augmented Reality**
 
