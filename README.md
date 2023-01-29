@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently open to work 
+- 🔭 I’m currently working on my portfolio using Chat GPT 
 
 - 🌱 I’m currently learning **Dart,Flutter. Augmented Reality**
 
