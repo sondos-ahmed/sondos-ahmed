@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my portfolio using Chat GPT 
 
-- 🌱 I’m currently learning **Dart,Flutter. Augmented Reality**
+- 🌱 I’m currently learning **AI, Framer Motion, UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sondos-ahmed](https://github.com/sondos-ahmed)
 
