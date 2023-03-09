@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on my portfolio using Chat GPT 
+- 🔭 I’m currently working on my portfolio https://sondosbettamer.com/ 
 
 - 🌱 I’m currently learning **AI, Framer Motion, UI/UX**
 
