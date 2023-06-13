@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my portfolio https://sondosbettamer.com/ 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sondos-ahmed](https://github.com/sondos-ahmed)
 
