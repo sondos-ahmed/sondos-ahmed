@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sondos</h1>
-<h3 align="center">A passionate full-stack developer based in the UK 🇬🇧</h3>
+<h3 align="center">Software Developer | Recent Coding Bootcamp Graduate | Computer Networks Background | Bachelor's Degree based in the UK 🇬🇧</h3>
 
+👋 Hey there! I'm a software developer with a computer networks background and a recent graduate of a coding bootcamp. I hold a bachelor's degree in computer science, which provides me with a strong foundation in the field.
 
-
-- 🔭 I’m currently working on my portfolio https://sondosbettamer.com/ 
+- 🔭 I’m currently working on my portfolio https://sondosbettamer.com/ projects page
 
 - 🌱 I’m currently learning **React**
 
