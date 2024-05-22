@@ -3,9 +3,7 @@
 
 👋 Hey there! I'm a software developer with a computer networks background and a recent graduate of a coding bootcamp. I hold a bachelor's degree in computer science, which provides me with a strong foundation in the field.
 
-- 🔭 I’m currently working on my portfolio https://sondosbettamer.com/ projects page
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on my own project 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sondos-ahmed](https://github.com/sondos-ahmed)
 
